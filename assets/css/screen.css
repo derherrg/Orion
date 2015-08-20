@@ -865,8 +865,14 @@ body.nav-opened .nav {
 }
 
 /* The details of your blog. Defined in ghost/settings/ */
+.highlight {
+    background: rgba(0,0,0,0.37);
+    padding: 5px;
+    line-height: 3.4rem;
+}
+
 .page-title {
-    margin: 10px 0 10px 0;
+    margin: 10px 0 20px 0;
     font-size: 5rem;
     letter-spacing: -1px;
     font-weight: 700;
@@ -1441,9 +1447,6 @@ body:not(.post-template) .post-title {
 /* if there are two posts without covers, put a border between them */
 .read-next-story.no-cover + .read-next-story.no-cover {
     border-left: rgba(0,0,100,0.04) 1px solid;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
 }
 
 /* Correctly position site-footer when next to the .read-next container */
