@@ -1,16 +1,8 @@
-# Casper
+# Orion
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/).
+### About Orion
+This is my personal fork of the [original Casper-theme for Ghost](https://github.com/TryGhost/Casper). It is named *Orion* because Casper was the name of the Command Module of the Apollo 16 mission, and Orion was the name of the corresponding Lunar Module. And just like the lander eventually uncoupled from the Command Module, this theme now uncoupled from ... blah blah, you get the idea ;-)
 
-To download, visit the [releases](https://github.com/TryGhost/Casper/releases) page.
+### Copyright & License
 
-## Copyright & License
-
-Copyright (c) 2013-2015 Ghost Foundation - Released under the MIT License.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+The original theme is released under the MIT License, and so is this fork. Have fun with it! :-)
